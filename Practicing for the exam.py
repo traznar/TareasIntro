@@ -1,4 +1,4 @@
-##II Examen Parcial
+##II Examen Parcial Brandon Gomez Gomez 2019173506
 #Primer Ejercicio
 class sumaMatrix(object):
     def __init__(self):
