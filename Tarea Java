@@ -1,0 +1,30 @@
+2019173506 Gomez Gomez
+package start;
+
+import java.until.ArrayList;
+
+
+public class listaEnlazada {
+	public static void main(int []s){
+		ArrayList<int> listaEnla= new ArrayList<>();
+
+		listaEnla.add(1);
+		listaEnla.add(2);
+		listaEnla.add(3);
+		listaEnla.add(4);
+		for (int e=0; e< listaEnla.size();e++){
+			System.out.println(listaEnla.get(e));
+		}
+		listaEnla.remove(3);
+		if(listaEnla.isEmpty()){
+			System.out.pritnln("Lista Invalida");
+		}
+		Int aux= "Opcion";
+		listaEnla.set(0,aux)'
+
+		for (int e = 0; e <listaEnla.size(); e++){
+			System.out.println(listaEnla.get(e));
+ 		}
+	}	
+
+}
